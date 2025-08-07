@@ -12,4 +12,4 @@ A web-based medical calculator for determining the calcium/creatinine ratio used
 - `calcium-cr-calc.py`: Original Python command-line version
 
 ## Live Demo
-Visit: [Your GitHub Pages URL will go here]
+Visit: https://mawamd.github.io/calcium-creatinine-calculator
